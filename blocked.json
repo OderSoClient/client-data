@@ -1,13 +1,21 @@
 {
-	"cubecraft.net": [
-		"NoHurtcam"
-	],
     "hivebedrock.network": [
         "Freelook",
-		"NoHurtcam"
+        "NoHurtcam"
     ],
     "play.galaxite.net": [
         "Freelook",
-		"NoHurtcam"
-    ]
+        "NoHurtcam"
+    ],
+    "mc.nevertime.su": [
+        "Minimap",
+        "NoRender"
+    ],
+    "89.33.12.43": [
+    	"Minimap",
+		"NoRender"
+    ],
+	"phoenix-pe.ru": [
+		"Minimap"
+	]
 }
