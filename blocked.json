@@ -1,10 +1,12 @@
 {
     "hivebedrock.network": [
         "Freelook",
+		"Hurtcam",
         "NoHurtcam"
     ],
     "play.galaxite.net": [
         "Freelook",
+		"Hurtcam",
         "NoHurtcam"
     ],
     "mc.nevertime.su": [
