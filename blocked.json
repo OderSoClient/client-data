@@ -19,5 +19,14 @@
     ],
 	"phoenix-pe.ru": [
 		"Minimap"
+	],
+	"nethergames.org": [
+		"Freelook",
+		"JavaInventory",
+		"Minimap",
+		"TNTTimer"
+	],
+	"plutonium.best": [
+		"SkinStealer"
 	]
 }
