@@ -1,8 +1,6 @@
 {
     "hivebedrock.network": [
-        "Freelook",
-		"Hurtcam",
-        "NoHurtcam"
+        "Freelook"
     ],
     "play.galaxite.net": [
         "Freelook",
